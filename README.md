@@ -8,3 +8,5 @@ Features:
 - Manual Bed Leveling
 - Printer status
 - Nice looking Color Theme
+
+<img src="https://raw.githubusercontent.com/seanzhang98/KP3S-V3.0-Marlin/main/img/info.png" width="200"/>
